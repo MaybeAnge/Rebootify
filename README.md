@@ -1,4 +1,4 @@
-<img src="https://github.com/MaybeAnge/Images/blob/main/Rebootify.png" alt="Rebootify-Maybe-Ange" title="Rebootify Maybe Ange" align="middle">
+<img src="https://github.com/MaybeAnge/Images/blob/main/Rebootify.png" alt="Rebootify-Maybe-Ange" title="Rebootify Maybe Ange">
 
 # 🥇 Rebootify
 
