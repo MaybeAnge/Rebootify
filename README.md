@@ -1,15 +1,15 @@
 <img src="https://github.com/MaybeAnge/Images/blob/main/Rebootify.png" alt="Rebootify-Maybe-Ange" title="Rebootify Maybe Ange">
 
-<hr><br>
+<br>
 
 # 🥇 Rebootify
 
 Rebootify is currently in development, it will allow you to restart your internet box and obtain many other information related to your network.
 You will soon have news.
 
-# Security Policy
+<br>
 
-## Supported Versions
+# Security Policy and versions
 
 Supporter version, planned to be supported by different operating systems 🪄
 
