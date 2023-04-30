@@ -1,6 +1,4 @@
-# Security Policy
-
-## Supported Versions
+# Security Policy and Versions
 
 Supporter version, planned to be supported by different operating systems 🪄
 
