@@ -9,7 +9,7 @@ You will soon have news.
 
 <br>
 
-# Security Policy and versions
+# Security Policy and Versions
 
 Supporter version, planned to be supported by different operating systems 🪄
 
