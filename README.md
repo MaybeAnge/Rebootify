@@ -29,7 +29,7 @@ Supporter version, planned to be supported by different operating systems 🪄
 
 If you encounter a vulnerability or an issue that should not be present, please contact reseaux.support@maybe-ange.com or contact.support@maybe-ange.com
 
-<br><br>
+<br>
 
 # 🧵 Licence
 
