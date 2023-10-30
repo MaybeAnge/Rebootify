@@ -2,8 +2,6 @@
 
 <br>
 
-[![video]](https://drive.google.com/file/d/1ZJUOkaXnDNP9-nSEkJS-PzC2Bu-GtTkM/view?usp=sharing)
-
 # 🥇 Rebootify
 
 Rebootify is currently in development, it will allow you to restart your internet box and obtain many other information related to your network.
