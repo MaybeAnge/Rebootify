@@ -51,7 +51,7 @@ License: CC-BY-ND-4.0
 
 *   By using this software, you agree to respect the copyrights and trademarks of Maybe Ange Corporation.
     If you have any questions or concerns regarding the copyrights or trademarks of Maybe Ange Corporation,
-    please contact our teams at the following email address: contact.support@maybe-ange.com
+    please contact our teams at the following email address: https://maybe-ange.com/#contact
      
 # 👑 Director: Maybe Ange
 
