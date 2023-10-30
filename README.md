@@ -27,7 +27,7 @@ Supporter version, planned to be supported by different operating systems 🪄
 
 ## Reporting a Vulnerability
 
-If you encounter a vulnerability or an issue that should not be present, please contact reseau.support@maybe-ange.com or contact.support@maybe-ange.com
+If you encounter a vulnerability or an issue that should not be present, please contact ![](https://maybe-ange.com/#contact)
 
 <br>
 
